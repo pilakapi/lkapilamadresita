@@ -34,7 +34,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211268/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=640x360
 https://live20.bozztv.com/giatvplayout7/giatv-211268/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="MOVIPLAY TV" tvg-logo="https://i.postimg.cc/5tVjW1xB/MOVIPLAY-TV.png" group-title="PELICULAS" tvg-name="MOVIPLAY TV",MOVIPLAY TV
+#EXTINF:-1 tvg-id="MOVIPLAY TV" tvg-logo="https://i.postimg.cc/vZxFLS6g/MOVIPLAY-TV-(1).png" group-title="PELICULAS" tvg-name="MOVIPLAY TV",MOVIPLAY TV
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1280x1080
 https://live20.bozztv.com/giatvplayout7/giatv-210960/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1280x720
@@ -791,4 +791,5 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="Cataluña" tvg-name="El 9 TV",El 9 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+
 https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR
