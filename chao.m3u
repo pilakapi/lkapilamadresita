@@ -74,6 +74,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-211389/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=640x360
 https://live20.bozztv.com/giatvplayout7/giatv-211389/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="JOVENES TITANES EN ACCION" tvg-logo="https://i.postimg.cc/VN4njRn1/AAAABSCGmdaEJ-a_wUJEdv4yG04Mf7iyWyZD_Au8mSPwo52C79R4xMgHfzmwCVBQ243qD65YwLwl-7i2lihJKw1LQiMyZnwF8N4T.jpg" group-title="ANIME" tvg-name="JOVENES TITANES EN ACCION",JOVENES TITANES EN ACCION
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1280x1080
+https://live20.bozztv.com/giatvplayout7/giatv-211416/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1280x720
+https://live20.bozztv.com/giatvplayout7/giatv-211416/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=854x480
+https://live20.bozztv.com/giatvplayout7/giatv-211416/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=640x360
+https://live20.bozztv.com/giatvplayout7/giatv-211416/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="LIBRE TV.TV" tvg-logo="https://i.postimg.cc/zv77L83P/CABLE_TV_(6).png" group-title="RELIGION" tvg-name="LIBRE TV",LIBRE TV
 https://live20.bozztv.com/giatvplayout7/giatv-208675/tracks-v1a1/mono.ts.m3u8
 
@@ -793,4 +803,5 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 
 https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR
+
 
